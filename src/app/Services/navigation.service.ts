@@ -16,4 +16,10 @@ export class NavigationService {
     return data;
   }
 
+  getPageContent() {
+    let data = this.http.get("./../assets/data/page_content.json");
+    console.log(" Content Data _*_*_*_", data)
+    return data;
+  }
+
 }

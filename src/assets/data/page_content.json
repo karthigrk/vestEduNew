@@ -1,0 +1,44 @@
+{
+    "college": {
+        "page_title": "Colleges and Universities",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph_2": "Erat pellentesque adipiscing commodo elit at imperdiet dui. Nisi porta lorem mollis aliquam ut porttitor. Fermentum",
+        "paragraph_3": "Augue neque gravida in fermentum. Consectetur a erat nam at lectus urna duis convallis convallis. Eget velit aliquet",
+        "paragraph_4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    },
+    "visa": {
+        "page_title": "Student Visa Requirements",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph_2": "Erat pellentesque adipiscing commodo elit at imperdiet dui. Nisi porta lorem mollis aliquam ut porttitor. Fermentum",
+        "paragraph_3": "Augue neque gravida in fermentum. Consectetur a erat nam at lectus urna duis convallis convallis. Eget velit aliquet",
+        "paragraph_4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    },
+    "scholarship": {
+        "page_title": "Scholarships and Loans",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph_2": "Erat pellentesque adipiscing commodo elit at imperdiet dui. Nisi porta lorem mollis aliquam ut porttitor. Fermentum",
+        "paragraph_3": "Augue neque gravida in fermentum. Consectetur a erat nam at lectus urna duis convallis convallis. Eget velit aliquet",
+        "paragraph_4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    },
+    "test": {
+        "page_title": "Competetitive Tests",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph_2": "Erat pellentesque adipiscing commodo elit at imperdiet dui. Nisi porta lorem mollis aliquam ut porttitor. Fermentum",
+        "paragraph_3": "Augue neque gravida in fermentum. Consectetur a erat nam at lectus urna duis convallis convallis. Eget velit aliquet",
+        "paragraph_4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    },
+    "campus_life": {
+        "page_title": "Campus Life",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph_2": "Erat pellentesque adipiscing commodo elit at imperdiet dui. Nisi porta lorem mollis aliquam ut porttitor. Fermentum",
+        "paragraph_3": "Augue neque gravida in fermentum. Consectetur a erat nam at lectus urna duis convallis convallis. Eget velit aliquet",
+        "paragraph_4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    },
+    "success_stories": {
+        "page_title": "Success Stories",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph_2": "Erat pellentesque adipiscing commodo elit at imperdiet dui. Nisi porta lorem mollis aliquam ut porttitor. Fermentum",
+        "paragraph_3": "Augue neque gravida in fermentum. Consectetur a erat nam at lectus urna duis convallis convallis. Eget velit aliquet",
+        "paragraph_4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    }
+}
