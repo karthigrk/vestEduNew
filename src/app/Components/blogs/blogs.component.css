@@ -1,0 +1,21 @@
+.blog_post_title {
+	margin: 60px 0px;
+}
+
+.blog_post_card {
+	background-color: #3498DB;
+	color: #fff;
+	border-radius: 2px;
+	padding: 25px;
+}
+
+.blog_post_card_heading {
+	font-size: 22px;
+	color: #000;
+	text-align: left;
+	margin-left: .75rem;
+	margin-right: .75rem;
+}
+.blog_post_card_content {
+	text-align: left;
+}

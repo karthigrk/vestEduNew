@@ -1,0 +1,80 @@
+.services_content_img {
+	margin: 25px 0px;
+	width: 100%;
+}
+
+.services_img_resize {
+	position: relative;
+	width: 100%;
+    height: 250px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.4;
+}
+
+.services_img_caption {
+	position: absolute;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    background-color: #000;
+    opacity: 0.5;
+}
+
+.services_img_caption p {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 36px;
+	color: #fff;
+	margin: 20px;
+}
+
+.services_content_section {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.services_content {
+	padding: 25px;
+}
+
+.services_content_img {
+	height: 300px;
+}
+
+.services_content_img_caption {
+	position: absolute;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    background-color: #000;
+    opacity: 0.5;
+}
+
+.services_content_img_caption p {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 36px;
+	color: #fff;
+	margin: 20px;
+}
+
+.service_form_content {
+	background-color: #c8c8c8;
+	margin: 10px 0px;
+	padding: 20px;
+}
+
+.service_form_login {
+	border-right: 1px solid #fff;
+}
+
+.service_form_input {
+	padding: 20px;
+}
+
+.fb_login_button, .google_login_button {
+	margin: 10px;
+	text-align: center;
+}

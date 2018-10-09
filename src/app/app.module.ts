@@ -9,6 +9,8 @@ import { BsDropdownModule } from 'ngx-bootstrap';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './Pages/home/home.component';
 import { AboutComponent } from './Pages/about/about.component';
+import { ServicesComponent } from './Pages/services/services.component';
+
 import { NavComponent } from './Components/nav/nav.component';
 import { CarouselComponent } from './Components/carousel/carousel.component';
 import { PromoComponent } from './Components/promo/promo.component';
@@ -23,7 +25,8 @@ import { NavigationService } from './Services/navigation.service';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'about', component: AboutComponent }
+  { path: 'about', component: AboutComponent },
+  { path: 'services', component: ServicesComponent }
  ];
 
 @NgModule({
@@ -38,7 +41,8 @@ const routes: Routes = [
     CounterComponent,
     BlogsComponent,
     TestimonyComponent,
-    FooterComponent
+    FooterComponent,
+    ServicesComponent
   ],
   imports: [
     BrowserModule,

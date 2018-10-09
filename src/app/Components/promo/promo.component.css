@@ -1,34 +1,114 @@
-.container {
-  margin-top: 1rem;
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 575.98px) {
+	.home_left_advertisement {
+		width: 100%;
+		margin: 10px 0px;
+		padding-right: 0px;
+	}
+
+	.home_right_advertisement {
+		width: 100%;
+		margin: 10px 0px;
+		padding-left: 0px;
+	}
+
+	.service_form_login {
+		border: 0px !important;
+		border-bottom: 1px solid #fff !important;
+	}
 }
-.row div{
-  text-align: center;
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.home_left_advertisement {
+		width: 100%;
+		margin: 10px 0px;
+	}
+
+	.home_right_advertisement {
+		width: 100%;
+		margin: 10px 0px;
+	}
 }
-.row div p {
-  font-size: 16px;
-  color: #777;
-  line-height: 26px;
-  padding-right: 10px;
-  margin-bottom: 14px;
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
 }
-span {
-    color: #00aeef;
-    border: 2px solid #00aeef;
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-    display: inline-block;
-    padding: 10px;
-    font-size: 27px;
-    margin-bottom: 14px;
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
 }
-h3 {
-    color: #333;
-    font-size: 20px;
-    font-weight: 700;
-    text-transform: capitalize;
-    font-size: 20px;
-    line-height: 26px;
-    margin: 0 0 12px;
-    font-family: 'Roboto Slab', serif;
+
+.nopadding {
+	padding: 0px !important;
+}
+
+.nomargin {
+	margin: 0px !important;
+}
+
+.services_card_1 {
+	background-color: #424949;
+	color: #FFF;
+}
+.services_card_2 {
+	background-color: #3498DB;
+	color: #FFF;
+}
+.services_card_3 {
+	background-color: #2E86C1;
+	color: #FFF;
+}
+.services_card_4 {
+	background-color: #2C3E50;
+	color: #FFF;
+}
+.services_card_5 {
+	background-color: #48C9B0;
+	color: #000;
+}
+.services_card_6 {
+	background-color: #3498DB;
+	color: #FFF;
+}
+
+.card_content {
+    margin-top: 10%;
+    width: 100%;
+    text-align: center;
+    padding: 0px 50px;
+}
+
+.img_resize {
+	position: relative;
+	width: 100%;
+    height: 250px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.4;
+}
+
+.img_caption {
+	position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+}
+
+.img_caption p {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 28px;
+	color: #fff;
+}
+
+.home_left_advertisement {
+	padding-left: 0px;
+}
+
+.home_right_advertisement {
+	padding-right: 0px;
 }
