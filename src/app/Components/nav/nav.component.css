@@ -1,0 +1,10 @@
+a, button {
+  text-transform: uppercase;
+}
+button {
+  border-radius: 5px;
+}
+.nav_menu_content {
+  margin: 0px auto;
+  font-weight: bold;
+}

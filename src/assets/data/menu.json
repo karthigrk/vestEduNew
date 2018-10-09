@@ -1,0 +1,28 @@
+{
+    "menus": [
+        {
+            "name": "Home",
+            "routeLink": "/"
+        },
+        {
+            "name": "Borrow",
+            "routeLink": "/"
+        },
+        {
+            "name": "Invest",
+            "routeLink": "/"
+        },
+        {
+            "name": "About Us",
+            "routeLink": "about"
+        },
+        {
+            "name": "Contact",
+            "routeLink": "/"
+        },
+        {
+            "name": "Blog",
+            "routeLink": "/"
+        }
+    ]
+}

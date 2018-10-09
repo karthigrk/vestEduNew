@@ -1,0 +1,52 @@
+.col-md-7{
+  width:58.33333333%
+}
+.event-section.event2-section {
+    margin-left: 60px;
+    position: relative;
+}
+.event2-section.event-section .event-box {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    counter-increment: event-box;
+    border-bottom: none;
+    overflow: hidden;
+    margin-bottom: 23px;
+    padding-bottom: 33px;
+}
+.event2-section.event-section .event-box .eventcontent-box {
+    display: inline-block;
+    max-width: 330px;
+    padding-top: 8px;
+}
+.event2-section.event-section .event-box .event-index {
+    color: #01aeef;
+    background: #000;
+    padding: 10px;
+    width: 70px;
+    border-radius: 50%;
+    height: 70px;
+    text-align: center;
+    font-size: 39px;
+    margin-right: 20px;
+    display: inline-block;
+    float: left;
+}
+.event2-section.event-section .event-box .event-meta {
+    margin-bottom: 15px;
+    display: block;
+}
+.event-box p {
+    letter-spacing: 0.15px;
+    line-height: 26px;
+}
+.event2-section.event-section .event-box .eventcontent-box p, .count-text {
+    font-size: 15px;
+    color: #6d6d6d;
+}
+.event2-section.event-section .event-box > img {
+    position: absolute;
+    right: 0;
+    top: 12px;
+}
